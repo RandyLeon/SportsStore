@@ -1,7 +1,6 @@
 ﻿using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Entities;
 using System.Collections.Generic;
-using SportsStore.Domain.Abstract;
 
 namespace SportsStore.Domain.Concrete
 {
